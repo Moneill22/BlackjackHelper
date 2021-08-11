@@ -1,0 +1,3 @@
+# BlackjackHelper
+
+This project is a functioning Blackjack game which allows a user to player blackjack against the computer which makes it's decisions based on the classic casino rules. Blackjack is a game in which the casino has a small edge so long as the players are not counting cards, which is a strategy that is deeply frowned upon in the real world and can even result in players being banned from casinos. Since there is no real money on the line, I wanted to see how useful the counting card strategy really was and created a program that would count cards for the user and print recommendations on what the best decisions and bet sizes are in a given situation.
